@@ -1,0 +1,44 @@
+
+/* CSS para modal de person */
+.modal-person {
+    color: #6363637c;
+}
+
+.modal-person .modal-content {
+    border-radius: 5px;
+    border: none;
+}
+
+.modal-person .modal-header {
+    border-bottom: none;
+    position: relative;
+    justify-content: center;
+}
+
+.modal-person h4 {
+    text-align: center;
+    font-size: 26px;
+}
+
+
+
+
+.modal-person .modal-footer {
+    background: #ecf0f1;
+    border-color: #dee4e7;
+    text-align: center;
+    justify-content: center;
+    /*margin: 0 -20px -20px;*/
+    border-radius: 5px;
+    font-size: 13px;
+}
+
+.modal-person .modal-footer a {
+    color: #999;
+}
+
+
+.modal-person.modal-dialog {
+    margin-top: 80px;
+}
+
